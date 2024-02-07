@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "homepage": "https://pisitpong26.github.io/internWeb/",
   "private": true,
-  "scripts": {
+  "scripts": { 
+    "export": "next export",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "next dev",
