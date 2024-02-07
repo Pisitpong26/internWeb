@@ -17,7 +17,7 @@ export default function Home() {
           
           <div className="rounded-[20px] flex flex-col lg:flex-row justify-center items-center w-[180px] h-[300px] lg:w-[450px] lg:h-[250px] md:w-[360px] md:h-[150px] mx-3">  
               <a href="https://github.com/Pisitpong26/SofDevWeb.git" target="_blank">
-                <Image src="/Pic/Travel.png" alt="My Pic" width={320} height={200} className="mx-3 md:max-w-40 md:h-24  lg:max-w-max lg:h-56 rounded-[20px] "/>
+                <Image src="/Pic/Travel.png" alt="My Pic" width={320} height={200} className="mx-3 md:max-w-40 md:h-24  lg:max-w-64  lg:h-48 rounded-[20px] "/>
               </a>
               <div className="text-black text-left text-xs lg:text-sm mx-3 my-5">
                   <a href="https://github.com/Pisitpong26/SofDevWeb.git" target="_blank" title="View code" className="font-bold text-black text-xs lg:text-lg hover:text-purple-500">Traveler Tale</a>      
